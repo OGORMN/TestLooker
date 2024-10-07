@@ -1,0 +1,15 @@
+{
+  "name": "Custom Sunburst Chart",
+  "description": "A custom sunburst chart for Looker Studio.",
+  "resources": {
+    "js": [
+      "https://ogormn.github.io/TestLooker/index.html"
+    ],
+    "css": []
+  },
+  "compatibilityVersion": 1,
+  "authors": ["Neal"],
+  "organization": "OGO",
+  "logoUrl": "",
+  "appLauncher": false
+}
